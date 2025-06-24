@@ -1,1 +1,3 @@
-wip the mawaqit api is very annoying to use externally
+wip, mawaqit api is difficult to work with
+
+implemented: auth w credentials or token
